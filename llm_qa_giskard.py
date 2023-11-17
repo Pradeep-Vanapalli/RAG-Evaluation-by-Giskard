@@ -9,7 +9,7 @@ Original file is located at
 
 !pip install "giskard[llm]>=2.0.0b" --upgrade
 
-!pip install langchain pypdf faiss-cpu openai==0.27.0 tiktoken
+!pip install langchain pypdf faiss-cpu openai==0.27.0 tiktoken 
 
 import os
 from pathlib import Path
