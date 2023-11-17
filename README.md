@@ -1,1 +1,1 @@
-# Giskard-RAG-Evaluation-Demo
+# RAG-Evaluation-By-Giskard
